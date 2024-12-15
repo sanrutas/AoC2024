@@ -2,4 +2,4 @@ Advent of Code (AoC) is an annual set of holiday-themed programming puzzles, cre
 
 This repository contains my python solutions for 2024 AoC problems.
 
-https://adventofcode.com/
+https://adventofcode.com/2024
